@@ -14,7 +14,7 @@ Kullanıcının günlük, haftalık, aylık olarak yapacağı işleri planladı�
 
 |** Tanıtım **|
 |---|
-|![gif](https://user-images.githubusercontent.com/62894501/104864383-dcfd3b00-5949-11eb-94f5-a821e5c5c40e.gif)|
+|![gif](https://user-images.githubusercontent.com/62894501/104864745-010d4c00-594b-11eb-9077-8c995195a4c8.gif)|
 
 ### Kodlayan
 Yusuf Demir (https://www.linkedin.com/in/yusir4)
