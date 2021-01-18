@@ -1,16 +1,21 @@
-# todo
+# Proje Adı
+Görev Yöneticisi
 
-Yusir
+# Proje Konusu
+Kullanıcının günlük, haftalık, aylık olarak yapacağı işleri planladığı küçük bir uygulamadır.
 
-## Getting Started
+## APK
 
-This project is a starting point for a Flutter application.
+| Release APK - Telefonunuza indirip deneyebilirsiniz. |
+| :---:   | 
+| https://github.com/yusir4/todo-app/raw/master/apk/app-release.apk |
 
-A few resources to get you started if this is your first Flutter project:
+## Uygulama Gif
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+|** Tanıtım **|
+|---|
+|![gif](https://user-images.githubusercontent.com/62894501/104864383-dcfd3b00-5949-11eb-94f5-a821e5c5c40e.gif)|
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Kodlayan
+Yusuf Demir (https://www.linkedin.com/in/yusir4)
+
